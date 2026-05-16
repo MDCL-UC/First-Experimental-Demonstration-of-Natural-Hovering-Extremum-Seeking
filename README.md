@@ -1,0 +1,2 @@
+This repo has mainly two files, the first one is a supplementary note provides an intuitive tutorial-style explanation of the idea behind extremum seeking for vibrational stabilization (ES-VS), with the goal of making the main mechanism more accessible to readers who may not be experts in nonlinear control theory, averaging, or vibrational systems.
+The second file is a tutorial-style description of the experimental setup used for the implementation of Natural Hovering Extremum Seeking (NH-ES) [3] on a physical flapping-wing robotic platform.
